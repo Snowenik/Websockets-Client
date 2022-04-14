@@ -22,5 +22,5 @@
 
 ## Prezentacja aplikacji
 
-[Prezentacja aplikacj - 1](https://youtu.be/tkqrKaJwUBY)
-[Prezentacja aplikacj - 2](https://youtu.be/BV2jPIhALKo)
+[Prezentacja aplikacji - 1](https://youtu.be/tkqrKaJwUBY)
+[Prezentacja aplikacji - 2](https://youtu.be/BV2jPIhALKo)
