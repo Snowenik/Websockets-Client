@@ -1,0 +1,71 @@
+.board {
+  display: flex;
+  margin-top: 30vh;
+  align-items: center;
+  flex-direction: column;
+}
+
+.row {
+  display: flex;
+  height: 15vh;
+}
+
+.row button {
+  font-size: 1.8rem;
+  font-weight: bold;
+  padding: 0;
+  text-align: center;
+  width: 150px;
+  background-color: hsl(200, 90%, 70%);
+  border: none;
+  border: 1px black solid;
+  cursor: pointer;
+  transition: background-color 200ms ease-in-out;
+}
+
+.row button:hover {
+  background-color: hsl(200, 90%, 80%);
+}
+
+.board p {
+  margin-top: 5vh;
+}
+
+.board > button {
+  margin-top: 3vh;
+  margin-bottom: 3vh;
+  width: 15vw;
+  border-radius: 10%;
+  border: none;
+  height: 6vh;
+  background-color: hsl(200, 90%, 70%);
+  cursor: pointer;
+  transition: background-color 200ms ease-in-out;
+}
+
+.board > button:hover {
+  background-color: hsl(200, 90%, 80%);
+}
+
+.inputContainer {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.inputContainer input {
+  margin-left: 3vw;
+  margin-right: 3vw;
+}
+
+.inputContainer button {
+  border: none;
+  width: 15vw;
+  border-radius: 10%;
+  background-color: hsl(200, 90%, 70%);
+  cursor: pointer;
+  transition: background-color 200ms ease-in-out;
+}
+
+.inputContainer button:hover {
+  background-color: hsl(200, 90%, 80%);
+}
